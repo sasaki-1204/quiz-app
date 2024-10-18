@@ -1,0 +1,40 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    text-align: center;
+    background-color: #ffc0cb;
+    font-size: 18px;
+    font-family: 'HG創英角ｺﾞｼｯｸUB';
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 72px;
+    background-color: #ffb6c1;
+    color: white;
+    font-size: 36px;
+}
+
+#header-title {
+    margin: auto 100px;
+}
+
+#header-contents {
+    margin: auto 10px;
+    display: flex;
+}
+
+#level {
+    margin: 10px 0;
+    font-size: 32px;
+    font-family: 'Segoe UI';
+}
+
+#user-icon {
+    margin-left: 10px;
+    width: 60px;
+    height: 60px;
+}
